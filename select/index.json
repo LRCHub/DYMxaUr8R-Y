@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Nowhere（feat. 3House）",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-03-22T09:03:38.502828Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nowhere",
+      "artist": "KEIJU feat. 3House",
+      "has_synced": false,
+      "path": "select/pl_01_Nowhere_KEIJU_feat._3House.txt"
+    }
+  ]
+}
